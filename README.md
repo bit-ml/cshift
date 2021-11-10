@@ -1,8 +1,9 @@
 # CShift 
 This repository contains the PyTorch implementation of the CShift model introduced in our paper:
 * **Paper**: [Self-Supervised Learning in Multi-Task Graphs through Iterative Consensus Shift](https://arxiv.org/pdf/2103.14417.pdf) 
-* **Authors**: Emanuela Haller*, Elena Burceanu* and Marius Leordeanu (*equal contribution)
+* **Authors**: [Emanuela Haller*](https://emanuelahaller.github.io/), [Elena Burceanu*](https://ilarele.github.io/) and [Marius Leordeanu](https://sites.google.com/site/mariusleordeanu/) (*equal contribution)
 * **Venue**: BMVC 2021
+* [**Video**](https://recorder-v3.slideslive.com/?share=54378&s=a6281f7b-cb0d-40ab-bebc-0042fb719864), [**Presentation**](https://docs.google.com/presentation/d/1ZaiLD0E9lRD-3mKLGZMVrZeSUg1xuc-qgE52i4B0UWg/edit?usp=sharing)
 
 <div align="center">
   <img src="resources/CShift.png" width="1000px" />
